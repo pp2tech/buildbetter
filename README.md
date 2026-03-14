@@ -26,7 +26,7 @@ No fluff. No "10x your growth" hot takes (unfortunately). Just thinking out loud
 
 Articles land here eventually. The newsletter gets them first — plus takes that never make it into long-form.
 
-**→ [Subscribe to BuildBetter]([https://YOUR-NEWSLETTER-URL-HERE](https://buildbetterhq.substack.com/)**
+**→ [Subscribe to BuildBetter]([https://buildbetterhq.substack.com/])**
 
 ---
 
@@ -36,8 +36,8 @@ Articles are organized by year. Each file links back to the original published p
 
 ```
 /articles
-  /2024/
-  /2025/
+  /2026/
+  /2027/
 ```
 
 ---
